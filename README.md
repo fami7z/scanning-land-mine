@@ -16,3 +16,4 @@
 // 2. 修饰全局变量
 // 3. 修饰函数
       static int GetMineCount(char mine[ROWS][COLS], int x, int y)
+![假如生活欺骗了你](https://user-images.githubusercontent.com/93239374/159222032-28913702-bda2-42af-a80e-812c16889c5e.PNG)
